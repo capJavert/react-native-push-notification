@@ -1,6 +1,7 @@
 {
-  "name": "react-native-push-notification",
-  "version": "3.1.3",
+  "name": "@capjavert/react-native-push-notification",
+  "version": "3.1.4",
+  "private": false,
   "description": "React Native Local and Remote Notifications",
   "main": "index",
   "scripts": {
