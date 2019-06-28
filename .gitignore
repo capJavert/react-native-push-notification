@@ -40,3 +40,6 @@ android/gradle/
 android/gradlew
 android/gradlew.bat
 android/src/main/gen
+
+# Packaged files
+*.tgz
